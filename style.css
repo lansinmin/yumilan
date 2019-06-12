@@ -1,0 +1,11 @@
+
+<style>
+/*這是CSS的註解*/
+/*標籤名稱選擇器*/
+body{background-color:#cccc text-align;center}
+/*class選擇器*/
+.title{color:blue;font-weight:blod;font-size:24px}
+.content{color:dodgerblue;border:1px solid}
+.keyboard{color:orangered;border:1px dashed firebrick;padding:20px;margin-top:25px}
+.underline{text-decoration:underline}
+</style>
